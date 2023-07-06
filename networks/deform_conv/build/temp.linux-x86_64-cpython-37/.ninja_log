@@ -1,0 +1,3 @@
+# ninja log v5
+0	9606	1684917600601873830	/home/jingbo/FADNet-PP/networks/deform_conv/build/temp.linux-x86_64-cpython-37/src/deform_conv_cuda_kernel.o	d734a42978eaf66c
+0	21402	1684917612389750854	/home/jingbo/FADNet-PP/networks/deform_conv/build/temp.linux-x86_64-cpython-37/src/deform_conv_cuda.o	d8d83b676787f491
